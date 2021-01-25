@@ -1,6 +1,7 @@
 # Cliquote Code Challenge
 
 ## Update Notes
+
 1. Created Boiler Plate using create-react-app and deleted unnecessary files. 
 2. Initialized GIT repository.
 ## Available Scripts
